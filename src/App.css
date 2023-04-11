@@ -9,3 +9,7 @@
 .css-194a1fa-MuiSelect-select-MuiInputBase-input{
   display: none;
 }
+
+.css-16c50h-MuiInputBase-root-MuiTablePagination-select{
+  display: none !important;
+}
